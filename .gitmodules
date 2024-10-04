@@ -1,0 +1,12 @@
+[submodule "rereal-api"]
+    path = rereal-api
+    url = https://github.com/iracanyes/rereal-api
+[submodule "rereal-web"]
+    path = rereal-web
+    url = https://github.com/iracanyes/rereal-web
+[submodule "rereal-web-admin"]
+    path = rereal-web-admin
+    url = https://github.com/iracanyes/rereal-web-admin
+[submodule "rereal-realtime"]
+    path = rereal-realtime
+    url = https://github.com/iracanyes/rereal-realtime
